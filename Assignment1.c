@@ -2,8 +2,6 @@
 //  By Prof. Penny, October 29, 2006
 //  ~70 lines of code, ~150 minutes to code, 2 defects
 //    Defect 1: used a tiles[1][1] declaration and then was surprised when stride was 1, not N!
-//    Defect 2: off by one error in allocation of boards array
-//
 
 #include "stdafx.h" // standard pre-compiled headers
 
