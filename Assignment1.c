@@ -108,7 +108,7 @@ int _tmain(int argc, _TCHAR* argv[])
             if( boards[0]->tiles[row*N+col] == 0 ) {
                 // this is the blank space
                 boards[0]->blankCol = col;
-                boards[0]->blankRow = row;
+                boards[0]->blankRow = row;/////////
             }
         }
 
